@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>Rabbits</title>
+</head>
+
+<body background="bg.jpg" onLoad='a()'>
+    <body>
+        <h1>
+             Rabbit1?
+        </h1>
+    </body>
+<p id="rabbit">Rabbits are cute.</p>
+
+<table>
+	<tr>Rabbits are cute .
+		<th><img src="rabbit1.jpg" />
+			</th>
+			
+		</tr>
+	</table>
+
+    <body>
+        <h1>
+             Rabbit2?
+        </h1>
+    </body>
+    <p id="rabbit1">Rabbits are of different types</p>
+<table>
+	<tr>Rabbits are of different types 
+		
+			<th><img src="rabbit2.jpg" />
+			</th>
+            
+		</tr>
+	</table>
+
+    <body>
+        <h1>
+             Rabbit3?
+        </h1>
+    </body>
+    <p id="rabbit1">Rabbits are of different colors</p>
+<table>
+	<tr>Rabbits are of different colors 
+		
+			<th><img src="rabbit3.jpg" />
+			</th>
+            
+		</tr>
+	</table>
+
+    <p id="rabbit4">Rabbits are small mammals with fluffy, short tails, whiskers and distinctive long ears. There 29 species around the world, according to Nature by PBS(opens in new tab) and, while they live in many different environments, they have many things in common.</p>
+
+    <p id="rabbit5">Some rabbits are about the size of a cat, and some can grow to be as big as a small child. Small rabbits, such as pygmy rabbits, can be as little as 9.3 inches (24 centimeters) in length and weigh less than a pound, according to the U.S. Fish and Wildlife Service(opens in new tab). Larger species grow to 20 inches (50 cm) and more than 10 lbs. (4.5 kilograms). </p>
+    
+    </body>
+    </html>
